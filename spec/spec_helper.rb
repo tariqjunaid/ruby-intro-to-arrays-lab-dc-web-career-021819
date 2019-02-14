@@ -1,4 +1,4 @@
-
+require_relative "../lib/intro_to_arrays.rb"
 RSpec.configure do |config|
 
   def __
